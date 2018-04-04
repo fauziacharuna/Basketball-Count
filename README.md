@@ -2,6 +2,8 @@
 
 # Basketball-Count
 Simple Counting Basket Score from udacity
+
+![alt text](https://github.com/fauziacharuna/Basketball-Count/blob/master/image/Screen%20Shot%202018-04-04%20at%2014.10.32.png)
 ## Getting Started
 This simple counting basketball score exercise from udacity course online
 ## Prerequisites 
